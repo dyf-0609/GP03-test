@@ -75,4 +75,6 @@
 ## git branch -d 分支名
 1. 删除分支
 
-dyf  aaaaaaaa
+## 忽略列表  
+1. 手动创建文件 .gitignore
+2. 把不需要提交的文件/目录添加到忽略列表
