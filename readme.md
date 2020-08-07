@@ -59,7 +59,7 @@
 2. git pull 把远程代码拉取到本地
 3. git clone 把远程克隆到本地
 
-# git branch
+## git branch
 1. 查看分支
 2. 当前分支前面有*
 
@@ -68,3 +68,5 @@
 
 ## git checkout 分支名
 1. 切换分支
+
+## git merge 分支名
